@@ -17,7 +17,7 @@
                <div class="card__content">
                   <img src="../assets/images/chart.svg" class="icons" alt="">
                   <h3>AMAZING GROWTH OPPORTUNITIES</h3>
-                  <p>You will get your 80% ROI in 4 days on your initial and 24 hours for the promo plan. No stress, no stories!</p>
+                  <p>You will get your 100% ROI in 4 days on your initial and 44 hours for the promo plan. No stress, no stories!</p>
                    <router-link to="/signup" class="card__btn">Get Started</router-link><br><br>
               </div>
                <div class="card__content">

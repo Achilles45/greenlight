@@ -14,7 +14,7 @@
                  <h6><i class="fa fa-envelope"></i>Email Address</h6>
                 <p>courageearners@gmail.com</p>
                  <h6><i class="fa fa-phone"></i>Phone</h6>
-                <p><a href="tel:07042610711"> 07042610711</a></p>
+                <p><a href="tel:08085802242"> 08085802242</a></p>
               </div>
               <div class="col-md-4">
                   <h5>Payment Method</h5>
@@ -29,7 +29,7 @@
           <div class="container">
               <div class="row">
                   <div class="col-12">
-                      <p>Courage Earners Company &copy; All Right Reserved, 2020</p>
+                      <p>GreenLight Investment Company &copy; All Right Reserved, 2020</p>
                   </div>
               </div>
           </div>

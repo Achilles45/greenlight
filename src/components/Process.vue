@@ -23,13 +23,10 @@
                           <h3>Crowdfunding</h3>
                           <hr>
                           <p>The company deals with various high growth and secured investment opportunities. Some of the products and services we deal on includes</p>
-                          <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; Natural honey production</p>
+                          <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; Financial market trading</p>
                           <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; Bitcoin Mining, Selling of gold</p>
                           <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; Import & Export of Agro Allied Products</p>
                           <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp;  Foodstuffs Exportation</p>
-                          <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp;  Power Generation</p>
-                          <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; Upstream Petroleum Services..</p>
-                          <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; Lend Money To Cooperative.</p>
                       </div>
                   </div><br>
                   <!-- <div class="content d-flex">
@@ -45,7 +42,7 @@
           </div>
           <div class="row">
               <div class="col-12">
-                    <p>These are some of the product we deal on that helps the company generate quick returns to pay investors in four (4) days for initial investment and in 24 hours for the promo package. Want to grow your money, give us a try today!</p>
+                    <p>These are some of the product we deal on that helps the company generate quick returns in three days to pay investors in four (4) days for initial investment and in 44(2 days) hours for the promo package. Want to grow your money, give us a try today!</p>
               </div>
           </div>
       </div>

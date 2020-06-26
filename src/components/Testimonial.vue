@@ -31,7 +31,7 @@
 		</div>
 		<div class="item carousel-item">
 			<div class="img-box"><img src="../assets/images/user.png" alt=""></div>
-			<p class="testimonial">Thank you Courage Earners.. Am so happy to be part of this platform</p>
+			<p class="testimonial">Thank you Green Light Investment.. Am so happy to be part of this platform</p>
 			<p class="overview"><b> Abajingin Ayokanmi D</b>Investor</p>
 			<div class="star-rating">
 				<ul class="list-inline">
@@ -59,7 +59,7 @@
 		</div>	
 		<div class="item carousel-item">
 			<div class="img-box"><img src="../assets/images/user.png" alt=""></div>
-			<p class="testimonial">They have done it again, alert keeps on entering, thanks to the day I joined this great platform, it keeps making me smiling every now and then, thanks Courage Earners</p>
+			<p class="testimonial">They have done it again, alert keeps on entering, thanks to the day I joined this great platform, it keeps making me smiling every now and then, thanks Green Light Investment</p>
 			<p class="overview"><b>Iheanyichukwu Uchegbu</b>Investor</p>
 			<div class="star-rating">
 				<ul class="list-inline">
