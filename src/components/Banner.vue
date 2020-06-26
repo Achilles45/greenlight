@@ -4,7 +4,7 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <div class="carousel-overlay"></div>
-          <img class="carousel-img" src="../assets/images/slider1.jpg" alt="First slide" />
+          <img class="carousel-img" src="../assets/images/banner6.jpeg" alt="First slide" />
           <div class="carousel-caption">
             <h1 class="animate__animated animate__bounceIn">EARN 100% of YOUR <span class="orange">INITIAL INVESTMENT IN 4 DAYS</span></h1>
             <p>You can grow your initial investment to as much as 100% in 4 working or in 44(2 days) hours when you select our promo plans. No stories, no stress.</p>
