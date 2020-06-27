@@ -7,7 +7,7 @@
           </div>
           <div class="col-md-1"></div>
           <div class="col-md-5">
-              <h2>About Courage Earners</h2>
+              <h2>About Green Light Investment</h2>
               <hr>
               <p>Green Light Investment is your company of choice that allows you make high interest yielding and secured investments into oil and gas related opportunities that would otherwise not be available to the general public. Our expert team of fund managers and traders will trade the financial market for good returns. <br>You too can start earning our 100% in 4 days for initial investment, or in 44 hours when you select our promo plans <br>PLEASE NOTE THAT INITIAL INVESTMENT FOR ALL MEMBERS IS COMPULSORY</p>
                <router-link to="/signup" class="intro-btn animated zoomIn animate3d">Get Started <i class="fas fa-long-arrow-alt-right"></i> </router-link>
