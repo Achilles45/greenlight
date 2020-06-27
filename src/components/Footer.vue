@@ -12,7 +12,7 @@
                 <h6><i class="fa fa-home"></i> Head Office</h6>
                 <p>No 3 Lamino Street Doma Road, Lafia Nasarawa State, Nigeria.</p>
                  <h6><i class="fa fa-envelope"></i>Email Address</h6>
-                <p>courageearners@gmail.com</p>
+                <p>Greenlightinvestment45@gmail.com</p>
                  <h6><i class="fa fa-phone"></i>Phone</h6>
                 <p><a href="tel:08085802242"> 08085802242</a></p>
               </div>

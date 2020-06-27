@@ -6,8 +6,8 @@
           <div class="carousel-overlay"></div>
           <img class="carousel-img" src="../assets/images/banner6.jpeg" alt="First slide" />
           <div class="carousel-caption">
-            <h1 class="animate__animated animate__bounceIn">EARN 100% of YOUR <span class="orange">INITIAL INVESTMENT IN 4 DAYS</span></h1>
-            <p>You can grow your initial investment to as much as 100% in 4 working or in 44(2 days) hours when you select our promo plans. No stories, no stress.</p>
+            <h1 class="animate__animated animate__bounceIn">EARN 50% of YOUR <span class="orange">INITIAL INVESTMENT IN 4 DAYS</span></h1>
+            <p>You can grow your initial investment to as much as 50% in 4 working or in 44(2 days) hours when you select our promo plans. No stories, no stress.</p>
             <router-link to="/signup" class="carousel-btn animated zoomIn animate3d">Get Started <i class="fas fa-long-arrow-alt-right"></i> </router-link>
           </div>
         </div>
@@ -18,7 +18,7 @@
             <h1 class="animated slideInDown animate3d">YOUR INVESTMENT IS <span class="orange">SAFE & SECURED</span></h1>
             <p
               class="animated slideInRight animate3d"
-            >Initial investment is compulsory. 100% of what ever you donated in the system</p>
+            >Initial investment is compulsory. 50% of what ever you donated in the system</p>
              <router-link to="/signup" class="carousel-btn animated zoomIn animate3d">Get Started <i class="fas fa-long-arrow-alt-right"></i> </router-link>
           </div>
         </div>
