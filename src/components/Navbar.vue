@@ -3,7 +3,7 @@
       <div class="container">
           <div class="navbar__content d-flex justify-content-between align-items-center">
               <div class="logo pt-2">
-                  <router-link to="/" class="logo"><img src="../assets/images/logo.jpg" class="logo__img" alt=""></router-link>
+                  <router-link to="/" class="logo2"><img src="../assets/images/logo.jpg" class="logo__img" alt=""></router-link>
               </div>
               <div class="menu">
                   <ul class="d-flex justify-content-between pt-3">
